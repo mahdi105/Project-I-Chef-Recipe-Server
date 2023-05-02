@@ -2,7 +2,7 @@
     {
       "id": "y9Xp7jK2Q6f5L8wD",
       "name": "Maria Rodriguez",
-      "image": "http://localhost:5000/assets/images/chef-1.png",
+      "image": "https://assignment-recipes-server-mahdi105.vercel.app/assets/images/chef-1.png",
       "experience": 9,
       "recipes": 4,
       "likes": 20,
@@ -11,7 +11,7 @@
     {
       "id": "z6Vb3nL9Q8s2W1tE",
       "name": "Alex Nguyen",
-      "image": "http://localhost:5000/assets/images/chef-2.png",
+      "image": "https://assignment-recipes-server-mahdi105.vercel.app/assets/images/chef-2.png",
       "experience": 6,
       "recipes": 5,
       "likes": 13,
@@ -20,7 +20,7 @@
     {
       "id": "u8Zw2tF1N7c4H5yB",
       "name": "Emily Davis",
-      "image": "http://localhost:5000/assets/images/chef-3.png",
+      "image": "https://assignment-recipes-server-mahdi105.vercel.app/assets/images/chef-3.png",
       "experience": 5,
       "recipes": 4,
       "likes": 7,
@@ -29,7 +29,7 @@
     {
       "id": "v7Qx2wD4T1l8n6Kj",
       "name": "Juan Garcia",
-      "image": "http://localhost:5000/assets/images/chef-4.png",
+      "image": "https://assignment-recipes-server-mahdi105.vercel.app/assets/images/chef-4.png",
       "experience": 8,
       "recipes": 5,
       "likes": 16,
@@ -38,7 +38,7 @@
     {
       "id": "m1Lp5jK3H7n8w2Vc",
       "name": "Sophie Lee",
-      "image": "http://localhost:5000/assets/images/chef-5.png",
+      "image": "https://assignment-recipes-server-mahdi105.vercel.app/assets/images/chef-5.png",
       "experience": 7,
       "recipes": 3,
       "likes": 18,
@@ -47,7 +47,7 @@
     {
       "id": "q9Sx6nT3B2v4F8zP",
       "name": "William Jackson",
-      "image": "http://localhost:5000/assets/images/chef-6.png",
+      "image": "https://assignment-recipes-server-mahdi105.vercel.app/assets/images/chef-6.png",
       "experience": 10,
       "recipes": 6,
       "likes": 19,
