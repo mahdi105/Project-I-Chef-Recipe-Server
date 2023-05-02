@@ -2,10 +2,14 @@ const express = require('express');
 const app = express();
 const port = process.env.PORT || 5000;
 const chefs = require('./data/chefs.json');
+
 const recipes = require('./data/recipes.json');
+const path = require('path');
 const cors = require('cors');
 app.use(cors());
 
+app.use('/assets/images', express.static(path.join(__dirname,'assets','images')));
+app.use('/assets/images/cuisine', express.static(path.join(__dirname,'assets','images','cuisine')));
 // home 
 app.get('/',(req,res) => {
     res.send('Recipes Server is running');

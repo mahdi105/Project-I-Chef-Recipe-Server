@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Butter Chicken",
-        "image": "./assets/images/cuisine/butter-chicken.jpg",
+        "image": "http://localhost:5000/assets/images/cuisine/butter-chicken.jpg",
         "process": "First, mix your yogurt marinade together Marinate chicken for 20 minutes, or overnight if time allows. (The longer it marinates, the more tender your chicken will be.) Sear chicken in a skillet or pan. Keep those charred bits on the pan to make your sauce. Browned bits = flavour. If you have too many burnt pieces stuck to the pan, you can discard some of them if you wish Finally, make your curry sauce in the same skillet.",
         "chef_id": "y9Xp7jK2Q6f5L8wD",
         "chef_name": "Maria Rodriguez",
@@ -25,7 +25,7 @@
     {
         "id": 2,
         "name": "Paneer Soup",
-        "image": "./assets/images/cuisine/paneer-soup.jpg",
+        "image": "http://localhost:5000/assets/images/cuisine/paneer-soup.jpg",
         "process": "First, mix your yogurt marinade together Marinate chicken for 20 minutes, or overnight if time allows. (The longer it marinates, the more tender your chicken will be.) Sear chicken in a skillet or pan. Keep those charred bits on the pan to make your sauce. Browned bits = flavour. If you have too many burnt pieces stuck to the pan, you can discard some of them if you wish Finally, make your curry sauce in the same skillet.",
         "chef_id": "y9Xp7jK2Q6f5L8wD",
         "chef_name": "Maria Rodriguez",
@@ -53,7 +53,7 @@
     {
         "id": 3,
         "name": "Rogan Josh",
-        "image": "./assets/images/cuisine/rogan-josh.jpg",
+        "image": "http://localhost:5000/assets/images/cuisine/rogan-josh.jpg",
         "process": "First, mix your yogurt marinade together Marinate chicken for 20 minutes, or overnight if time allows. (The longer it marinates, the more tender your chicken will be.) Sear chicken in a skillet or pan. Keep those charred bits on the pan to make your sauce. Browned bits = flavour. If you have too many burnt pieces stuck to the pan, you can discard some of them if you wish Finally, make your curry sauce in the same skillet.",
         "chef_id": "y9Xp7jK2Q6f5L8wD",
         "chef_name": "Maria Rodriguez",
@@ -78,7 +78,7 @@
     {
         "id": 4,
         "name": "Chicken Curry",
-        "image": "./assets/images/cuisine/chicken-curry.jpg",
+        "image": "http://localhost:5000/assets/images/cuisine/chicken-curry.jpg",
         "process": "First, mix your yogurt marinade together Marinate chicken for 20 minutes, or overnight if time allows. (The longer it marinates, the more tender your chicken will be.) Sear chicken in a skillet or pan. Keep those charred bits on the pan to make your sauce. Browned bits = flavour. If you have too many burnt pieces stuck to the pan, you can discard some of them if you wish Finally, make your curry sauce in the same skillet.",
         "chef_id": "y9Xp7jK2Q6f5L8wD",
         "chef_name": "Maria Rodriguez",
@@ -103,7 +103,7 @@
     {
         "id": 5,
         "name": "Chicken Shwarma",
-        "image": "./assets/images/cuisine/chicken-shwarma.jpg",
+        "image": "http://localhost:5000/assets/images/cuisine/chicken-shwarma.jpg",
         "process": "First, mix your yogurt marinade together Marinate chicken for 20 minutes, or overnight if time allows. (The longer it marinates, the more tender your chicken will be.) Sear chicken in a skillet or pan. Keep those charred bits on the pan to make your sauce. Browned bits = flavour. If you have too many burnt pieces stuck to the pan, you can discard some of them if you wish Finally, make your curry sauce in the same skillet.",
         "chef_id": "z6Vb3nL9Q8s2W1tE",
         "chef_name": "Alex Nguyen",
@@ -128,7 +128,7 @@
     {
         "id": 6,
         "name": "Dum Biryani",
-        "image": "./assets/images/cuisine/dum-biryani.jpg",
+        "image": "http://localhost:5000/assets/images/cuisine/dum-biryani.jpg",
         "process": "First, mix your yogurt marinade together Marinate chicken for 20 minutes, or overnight if time allows. (The longer it marinates, the more tender your chicken will be.) Sear chicken in a skillet or pan. Keep those charred bits on the pan to make your sauce. Browned bits = flavour. If you have too many burnt pieces stuck to the pan, you can discard some of them if you wish Finally, make your curry sauce in the same skillet.",
         "chef_id": "z6Vb3nL9Q8s2W1tE",
         "chef_name": "Alex Nguyen",
@@ -153,7 +153,7 @@
     {
         "id": 7,
         "name": "Chicken Fried Vegetable",
-        "image": "./assets/images/cuisine/fried-vegetable.jpg",
+        "image": "http://localhost:5000/assets/images/cuisine/fried-vegetable.jpg",
         "process": "First, mix your yogurt marinade together Marinate chicken for 20 minutes, or overnight if time allows. (The longer it marinates, the more tender your chicken will be.) Sear chicken in a skillet or pan. Keep those charred bits on the pan to make your sauce. Browned bits = flavour. If you have too many burnt pieces stuck to the pan, you can discard some of them if you wish Finally, make your curry sauce in the same skillet.",
         "chef_id": "z6Vb3nL9Q8s2W1tE",
         "chef_name": "Alex Nguyen",
@@ -178,7 +178,7 @@
     {
         "id": 8,
         "name": "Hamburger",
-        "image": "./assets/images/cuisine/hamburger.jpg",
+        "image": "http://localhost:5000/assets/images/cuisine/hamburger.jpg",
         "process": "First, mix your yogurt marinade together Marinate chicken for 20 minutes, or overnight if time allows. (The longer it marinates, the more tender your chicken will be.) Sear chicken in a skillet or pan. Keep those charred bits on the pan to make your sauce. Browned bits = flavour. If you have too many burnt pieces stuck to the pan, you can discard some of them if you wish Finally, make your curry sauce in the same skillet.",
         "chef_id": "z6Vb3nL9Q8s2W1tE",
         "chef_name": "Alex Nguyen",
@@ -203,7 +203,7 @@
     {
         "id": 9,
         "name": "Lal Bhuna",
-        "image": "./assets/images/cuisine/lal-bhuna.jpg",
+        "image": "http://localhost:5000/assets/images/cuisine/lal-bhuna.jpg",
         "process": "First, mix your yogurt marinade together Marinate chicken for 20 minutes, or overnight if time allows. (The longer it marinates, the more tender your chicken will be.) Sear chicken in a skillet or pan. Keep those charred bits on the pan to make your sauce. Browned bits = flavour. If you have too many burnt pieces stuck to the pan, you can discard some of them if you wish Finally, make your curry sauce in the same skillet.",
         "chef_id": "z6Vb3nL9Q8s2W1tE",
         "chef_name": "Alex Nguyen",
@@ -228,7 +228,7 @@
     {
         "id": 10,
         "name": "Panta Bhat",
-        "image": "./assets/images/cuisine/rice-plate.jpg",
+        "image": "http://localhost:5000/assets/images/cuisine/rice-plate.jpg",
         "process": "First, mix your yogurt marinade together Marinate chicken for 20 minutes, or overnight if time allows. (The longer it marinates, the more tender your chicken will be.) Sear chicken in a skillet or pan. Keep those charred bits on the pan to make your sauce. Browned bits = flavour. If you have too many burnt pieces stuck to the pan, you can discard some of them if you wish Finally, make your curry sauce in the same skillet.",
         "chef_id": "u8Zw2tF1N7c4H5yB",
         "chef_name": "Emily Davis",
@@ -253,7 +253,7 @@
     {
         "id": 11,
         "name": "Macher Jhol",
-        "image": "./assets/images/cuisine/macher-jhol.jpg",
+        "image": "http://localhost:5000/assets/images/cuisine/macher-jhol.jpg",
         "process": "First, mix your yogurt marinade together Marinate chicken for 20 minutes, or overnight if time allows. (The longer it marinates, the more tender your chicken will be.) Sear chicken in a skillet or pan. Keep those charred bits on the pan to make your sauce. Browned bits = flavour. If you have too many burnt pieces stuck to the pan, you can discard some of them if you wish Finally, make your curry sauce in the same skillet.",
         "chef_id": "u8Zw2tF1N7c4H5yB",
         "chef_name": "Emily Davis",
@@ -278,7 +278,7 @@
     {
         "id": 12,
         "name": "Rogan Josh",
-        "image": "./assets/images/cuisine/rogan-josh.jpg",
+        "image": "http://localhost:5000/assets/images/cuisine/rogan-josh.jpg",
         "process": "First, mix your yogurt marinade together Marinate chicken for 20 minutes, or overnight if time allows. (The longer it marinates, the more tender your chicken will be.) Sear chicken in a skillet or pan. Keep those charred bits on the pan to make your sauce. Browned bits = flavour. If you have too many burnt pieces stuck to the pan, you can discard some of them if you wish Finally, make your curry sauce in the same skillet.",
         "chef_id": "u8Zw2tF1N7c4H5yB",
         "chef_name": "Emily Davis",
@@ -303,7 +303,7 @@
     {
         "id": 13,
         "name": "Kacchi Biryani",
-        "image": "./assets/images/cuisine/kacchi.jpg",
+        "image": "http://localhost:5000/assets/images/cuisine/kacchi.jpg",
         "process": "First, mix your yogurt marinade together Marinate chicken for 20 minutes, or overnight if time allows. (The longer it marinates, the more tender your chicken will be.) Sear chicken in a skillet or pan. Keep those charred bits on the pan to make your sauce. Browned bits = flavour. If you have too many burnt pieces stuck to the pan, you can discard some of them if you wish Finally, make your curry sauce in the same skillet.",
         "chef_id": "u8Zw2tF1N7c4H5yB",
         "chef_name": "Emily Davis",
@@ -328,7 +328,7 @@
     {
         "id": 14,
         "name": "Tanduri Kebab",
-        "image": "./assets/images/cuisine/tanduri-kebab.jpg",
+        "image": "http://localhost:5000/assets/images/cuisine/tanduri-kebab.jpg",
         "process": "First, mix your yogurt marinade together Marinate chicken for 20 minutes, or overnight if time allows. (The longer it marinates, the more tender your chicken will be.) Sear chicken in a skillet or pan. Keep those charred bits on the pan to make your sauce. Browned bits = flavour. If you have too many burnt pieces stuck to the pan, you can discard some of them if you wish Finally, make your curry sauce in the same skillet.",
         "chef_id":  "v7Qx2wD4T1l8n6Kj",
         "chef_name": "Juan Garcia",
@@ -353,7 +353,7 @@
     {
         "id": 15,
         "name": "Butter Chicken",
-        "image": "./assets/images/cuisine/butter-chicken.jpg",
+        "image": "http://localhost:5000/assets/images/cuisine/butter-chicken.jpg",
         "process": "First, mix your yogurt marinade together Marinate chicken for 20 minutes, or overnight if time allows. (The longer it marinates, the more tender your chicken will be.) Sear chicken in a skillet or pan. Keep those charred bits on the pan to make your sauce. Browned bits = flavour. If you have too many burnt pieces stuck to the pan, you can discard some of them if you wish Finally, make your curry sauce in the same skillet.",
         "chef_id":  "v7Qx2wD4T1l8n6Kj",
         "chef_name": "Juan Garcia",
@@ -378,7 +378,7 @@
     {
         "id": 16,
         "name": "Chicken Curry",
-        "image": "./assets/images/cuisine/chicken-curry.jpg",
+        "image": "http://localhost:5000/assets/images/cuisine/chicken-curry.jpg",
         "process": "First, mix your yogurt marinade together Marinate chicken for 20 minutes, or overnight if time allows. (The longer it marinates, the more tender your chicken will be.) Sear chicken in a skillet or pan. Keep those charred bits on the pan to make your sauce. Browned bits = flavour. If you have too many burnt pieces stuck to the pan, you can discard some of them if you wish Finally, make your curry sauce in the same skillet.",
         "chef_id":  "v7Qx2wD4T1l8n6Kj",
         "chef_name": "Juan Garcia",
@@ -403,7 +403,7 @@
     {
         "id": 17,
         "name": "Chicken Shwarma",
-        "image": "./assets/images/cuisine/chicken-shwarma.jpg",
+        "image": "http://localhost:5000/assets/images/cuisine/chicken-shwarma.jpg",
         "process": "First, mix your yogurt marinade together Marinate chicken for 20 minutes, or overnight if time allows. (The longer it marinates, the more tender your chicken will be.) Sear chicken in a skillet or pan. Keep those charred bits on the pan to make your sauce. Browned bits = flavour. If you have too many burnt pieces stuck to the pan, you can discard some of them if you wish Finally, make your curry sauce in the same skillet.",
         "chef_id":  "v7Qx2wD4T1l8n6Kj",
         "chef_name": "Juan Garcia",
@@ -428,7 +428,7 @@
     {
         "id": 18,
         "name": "Dum Biryani",
-        "image": "./assets/images/cuisine/dum-biryani.jpg",
+        "image": "http://localhost:5000/assets/images/cuisine/dum-biryani.jpg",
         "process": "First, mix your yogurt marinade together Marinate chicken for 20 minutes, or overnight if time allows. (The longer it marinates, the more tender your chicken will be.) Sear chicken in a skillet or pan. Keep those charred bits on the pan to make your sauce. Browned bits = flavour. If you have too many burnt pieces stuck to the pan, you can discard some of them if you wish Finally, make your curry sauce in the same skillet.",
         "chef_id":  "v7Qx2wD4T1l8n6Kj",
         "chef_name": "Juan Garcia",
@@ -453,7 +453,7 @@
     {
         "id": 19,
         "name": "Chicken Fried Vegetable",
-        "image": "./assets/images/cuisine/fried-vegetable.jpg",
+        "image": "http://localhost:5000/assets/images/cuisine/fried-vegetable.jpg",
         "process": "First, mix your yogurt marinade together Marinate chicken for 20 minutes, or overnight if time allows. (The longer it marinates, the more tender your chicken will be.) Sear chicken in a skillet or pan. Keep those charred bits on the pan to make your sauce. Browned bits = flavour. If you have too many burnt pieces stuck to the pan, you can discard some of them if you wish Finally, make your curry sauce in the same skillet.",
         "chef_id": "m1Lp5jK3H7n8w2Vc",
         "chef_name": "Sophie Lee",
@@ -478,7 +478,7 @@
     {
         "id": 20,
         "name": "Hamburger",
-        "image": "/assets/images/cuisine/hamburger.jpg",
+        "image": "http://localhost:5000/assets/images/cuisine/hamburger.jpg",
         "process": "First, mix your yogurt marinade together Marinate chicken for 20 minutes, or overnight if time allows. (The longer it marinates, the more tender your chicken will be.) Sear chicken in a skillet or pan. Keep those charred bits on the pan to make your sauce. Browned bits = flavour. If you have too many burnt pieces stuck to the pan, you can discard some of them if you wish Finally, make your curry sauce in the same skillet.",
         "chef_id": "m1Lp5jK3H7n8w2Vc",
         "chef_name": "Sophie Lee",
@@ -503,7 +503,7 @@
     {
         "id": 21,
         "name": "Kacchi Biryani",
-        "image": "./assets/images/cuisine/kacchi.jpg",
+        "image": "http://localhost:5000/assets/images/cuisine/kacchi.jpg",
         "process": "First, mix your yogurt marinade together Marinate chicken for 20 minutes, or overnight if time allows. (The longer it marinates, the more tender your chicken will be.) Sear chicken in a skillet or pan. Keep those charred bits on the pan to make your sauce. Browned bits = flavour. If you have too many burnt pieces stuck to the pan, you can discard some of them if you wish Finally, make your curry sauce in the same skillet.",
         "chef_id": "m1Lp5jK3H7n8w2Vc",
         "chef_name": "Sophie Lee",
@@ -528,7 +528,7 @@
     {
         "id": 22,
         "name": "Rogan Josh",
-        "image": "./assets/images/cuisine/rogan-josh.jpg",
+        "image": "http://localhost:5000/assets/images/cuisine/rogan-josh.jpg",
         "process": "First, mix your yogurt marinade together Marinate chicken for 20 minutes, or overnight if time allows. (The longer it marinates, the more tender your chicken will be.) Sear chicken in a skillet or pan. Keep those charred bits on the pan to make your sauce. Browned bits = flavour. If you have too many burnt pieces stuck to the pan, you can discard some of them if you wish Finally, make your curry sauce in the same skillet.",
         "chef_id": "q9Sx6nT3B2v4F8zP",
         "chef_name": "William Jackson",
@@ -553,7 +553,7 @@
     {
         "id": 23,
         "name": "Lal Bhuna",
-        "image": "./assets/images/cuisine/lal-bhuna.jpg",
+        "image": "http://localhost:5000/assets/images/cuisine/lal-bhuna.jpg",
         "process": "First, mix your yogurt marinade together Marinate chicken for 20 minutes, or overnight if time allows. (The longer it marinates, the more tender your chicken will be.) Sear chicken in a skillet or pan. Keep those charred bits on the pan to make your sauce. Browned bits = flavour. If you have too many burnt pieces stuck to the pan, you can discard some of them if you wish Finally, make your curry sauce in the same skillet.",
         "chef_id": "q9Sx6nT3B2v4F8zP",
         "chef_name": "William Jackson",
@@ -578,7 +578,7 @@
     {
         "id": 24,
         "name": "Fish Gravy",
-        "image": "./assets/images/cuisine/macher-jhol.jpg",
+        "image": "http://localhost:5000/assets/images/cuisine/macher-jhol.jpg",
         "process": "First, mix your yogurt marinade together Marinate chicken for 20 minutes, or overnight if time allows. (The longer it marinates, the more tender your chicken will be.) Sear chicken in a skillet or pan. Keep those charred bits on the pan to make your sauce. Browned bits = flavour. If you have too many burnt pieces stuck to the pan, you can discard some of them if you wish Finally, make your curry sauce in the same skillet.",
         "chef_id": "q9Sx6nT3B2v4F8zP",
         "chef_name": "William Jackson",
@@ -603,7 +603,7 @@
     {
         "id": 25,
         "name": "Paneer Makhna",
-        "image": "./assets/images/cuisine/paneer-soup.jpg",
+        "image": "http://localhost:5000/assets/images/cuisine/paneer-soup.jpg",
         "process": "First, mix your yogurt marinade together Marinate chicken for 20 minutes, or overnight if time allows. (The longer it marinates, the more tender your chicken will be.) Sear chicken in a skillet or pan. Keep those charred bits on the pan to make your sauce. Browned bits = flavour. If you have too many burnt pieces stuck to the pan, you can discard some of them if you wish Finally, make your curry sauce in the same skillet.",
         "chef_id": "q9Sx6nT3B2v4F8zP",
         "chef_name": "William Jackson",
@@ -628,7 +628,7 @@
     {
         "id": 26,
         "name": "Panta Bhat",
-        "image": "./assets/images/cuisine/rice-plate.jpg",
+        "image": "http://localhost:5000/assets/images/cuisine/rice-plate.jpg",
         "process": "First, mix your yogurt marinade together Marinate chicken for 20 minutes, or overnight if time allows. (The longer it marinates, the more tender your chicken will be.) Sear chicken in a skillet or pan. Keep those charred bits on the pan to make your sauce. Browned bits = flavour. If you have too many burnt pieces stuck to the pan, you can discard some of them if you wish Finally, make your curry sauce in the same skillet.",
         "chef_id": "q9Sx6nT3B2v4F8zP",
         "chef_name": "William Jackson",
@@ -653,7 +653,7 @@
     {
         "id": 27,
         "name": "Butter Chicken",
-        "image": "./assets/images/cuisine/butter-chicken.jpg",
+        "image": "http://localhost:5000/assets/images/cuisine/butter-chicken.jpg",
         "process": "First, mix your yogurt marinade together Marinate chicken for 20 minutes, or overnight if time allows. (The longer it marinates, the more tender your chicken will be.) Sear chicken in a skillet or pan. Keep those charred bits on the pan to make your sauce. Browned bits = flavour. If you have too many burnt pieces stuck to the pan, you can discard some of them if you wish Finally, make your curry sauce in the same skillet.",
         "chef_id": "q9Sx6nT3B2v4F8zP",
         "chef_name": "William Jackson",
