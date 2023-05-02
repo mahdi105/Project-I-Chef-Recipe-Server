@@ -1,10 +1,11 @@
 const express = require('express');
 const app = express();
 const port = process.env.PORT || 5000;
-const cors = require('cors');
 const chefs = require('./data/chefs.json');
 const recipes = require('./data/recipes.json');
+const cors = require('cors');
 app.use(cors());
+
 // home 
 app.get('/',(req,res) => {
     res.send('Recipes Server is running');
