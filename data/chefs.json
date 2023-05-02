@@ -1,0 +1,57 @@
+[
+    {
+      "id": "y9Xp7jK2Q6f5L8wD",
+      "name": "Maria Rodriguez",
+      "image": "./assets/images/chef-1.png",
+      "experience": 9,
+      "recipes": 4,
+      "likes": 20,
+      "bio": "Maria Rodriguez is a Michelin-starred chef known for her bold flavors and creative approach to cuisine. She has appeared on numerous cooking shows and is a frequent guest speaker at culinary events around the world."
+    },
+    {
+      "id": "z6Vb3nL9Q8s2W1tE",
+      "name": "Alex Nguyen",
+      "image": "./assets/images/chef-2.png",
+      "experience": 6,
+      "recipes": 5,
+      "likes": 13,
+      "bio": "Alex Nguyen is a rising star in the culinary world, known for his innovative fusion dishes that combine flavors from around the globe. He has worked in some of the top restaurants in the US and has won multiple awards for his cuisine."
+    },
+    {
+      "id": "u8Zw2tF1N7c4H5yB",
+      "name": "Emily Davis",
+      "image": "./assets/images/chef-3.png",
+      "experience": 5,
+      "recipes": 4,
+      "likes": 7,
+      "bio": "Emily Davis is a pastry chef known for her elegant and creative desserts. She has worked in some of the most prestigious hotels and restaurants in Europe and the US, and her creations have been featured in top food magazines around the world."
+    },
+    {
+      "id": "v7Qx2wD4T1l8n6Kj",
+      "name": "Juan Garcia",
+      "image": "./assets/images/chef-4.png",
+      "experience": 8,
+      "recipes": 5,
+      "likes": 16,
+      "bio": "Juan Garcia is a Mexican chef known for his authentic and flavorful dishes. He has studied culinary traditions from all over Mexico and has worked in some of the best Mexican restaurants in the US. He is passionate about sharing his culture and cuisine with the world."
+    },
+    {
+      "id": "m1Lp5jK3H7n8w2Vc",
+      "name": "Sophie Lee",
+      "image": "./assets/images/chef-5.png",
+      "experience": 7,
+      "recipes": 3,
+      "likes": 18,
+      "bio": "Sophie Lee is a Korean-American chef known for her modern take on traditional Korean cuisine. She has worked in some of the top restaurants in New York City and has won multiple awards for her innovative and flavorful dishes."
+    },
+    {
+      "id": "q9Sx6nT3B2v4F8zP",
+      "name": "William Jackson",
+      "image": "./assets/images/chef-6.png",
+      "experience": 10,
+      "recipes": 6,
+      "likes": 19,
+      "bio": "William Jackson is a veteran chef with over 30 years of experience in the culinary industry. He has worked in some of the top restaurants in Europe and the US and has trained countless aspiring chefs. He is known for his classic French cuisine and his dedication to using only the freshest and highest-quality ingredients."
+    }
+  ]
+  
